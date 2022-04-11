@@ -5,3 +5,7 @@ The Meal Planner web app was created purely out of frustration and curiousity. F
 
 
 If you want to keep up with me, feel free to follow me on Twitter:  @ACole893
+
+Credits:
+The Meal DB- Free Meal API
+https://www.themealdb.com/api.php
